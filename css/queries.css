@@ -16,7 +16,7 @@
   }
 
   .hero-img {
-    /* margin-right: 2.8rem; */
+    margin-right: 2.8rem;
   }
 
   .step-number {
@@ -171,7 +171,6 @@
   }
   .hero-img {
     width: 70%;
-    margin-right: 2.4rem;
   }
 
   .logos img {
